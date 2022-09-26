@@ -1,0 +1,44 @@
+[
+    {
+        "img": "/img/avatar.jpg",
+        "titulo": "Avatar",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "En un exuberante planeta llamado Pandora viven los Na'vi, seres que aparentan ser primitivos pero que en realidad son muy evolucionados. Debido a que el ambiente de Pandora es venenoso, los híbridos humanos/Na'vi, llamados Avatares, están relacionados con las mentes humanas, lo que les permite moverse libremente por Pandora. Jake Sully, un exinfante de marina paralítico se transforma a través de un Avatar, y se enamora de una mujer Na'vi."
+    },
+    {
+        "img": "/img/avengers.jpg",
+        "titulo": "Avengers: Endgame",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas."
+    },
+    {
+        "img": "/img/gladiador.jpg",
+        "titulo": "Gladiador",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "El general romano Máximo es el soporte más leal del emperador Marco Aurelio, que lo ha conducido de victoria en victoria. Sin embargo, Cómodo, el hijo de Marco Aurelio, está celoso del prestigio de Máximo y aún más del amor que su padre siente por él. Cuando Cómodo llega al poder ordena el arresto del general y su asesinato. Máximo escapa de sus asesinos, pero no puede evitar la muerte de su familia. Entonces se convierte en gladiador para llevar a cabo su venganza."
+    },
+    {
+        "img": "/img/jw2.jpg",
+        "titulo": "John Wick 2",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "El legendario asesino John Wick se ve obligado a salir de su retiro por culpa de un exsocio que intenta controlar un siniestro grupo internacional de asesinos. Obligado a ayudarle por un juramento de sangre, John viaja a Roma para enfrentarse a algunos de los asesinos más letales del mundo."
+    },
+    {
+        "img": "/img/malefica.jpg",
+        "titulo": "Maléfica",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "Maléfica es una bella joven de corazón puro que vive una vida idílica en su reino del bosque. Cuando un ejército invasor pone en peligro el reino, Maléfica se erige como la temible protectora del bosque. Sin embargo, una despiadada traición endurece su corazón y la convierte en una criatura en busca de venganza. Maléfica empieza una batalla contra el sucesor del rey y lanza una maldición contra su hija Aurora. Sin embargo, se da cuenta de que la joven es la única que puede traer la paz al reino."
+    },
+    {
+        "img": "/img/panda.jpg",
+        "titulo": "Kung Fu Panda",
+        "opcion1": "PRE-COMPRAR",
+        "opcion2": "VER MAS",
+        "sinopsis": "El panda Po trabaja en la tienda de fideos de su familia y sueña en convertirse en un maestro del kung-fu. Su sueño se hace una realidad cuando es inesperadamente elegido para cumplir una antigua profecía y debe estudiar artes marciales con sus ídolos, los Cinco Furiosos. Po necesitará toda la sabiduría, fortaleza y habilidades para poder proteger a su gente de Tai Lung, un maldito leopardo de nieve."
+    }
+]
